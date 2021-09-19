@@ -1,0 +1,9 @@
+API/Apex_DataAccess_UnitTest/obj
+API/Apex_Api/bin
+API/Apex_Api/obj
+**/bin
+**/obj
+**\log
+Publish
+API/Apex_Api/appsettings.json
+API/.idea

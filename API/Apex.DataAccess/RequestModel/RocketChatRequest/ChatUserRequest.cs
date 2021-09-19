@@ -1,0 +1,15 @@
+﻿namespace Apex.DataAccess.RequestModel.RocketChatRequest
+{
+    public class ChatUserCreateRequest
+    {
+        public string name { get; set; }
+        public string email { get; set; }
+        public string password { get; set; }
+        public string username { get; set; }
+    }
+
+    public class ChatUserDeleteRequest
+    {
+        public string userId { get; set; }
+    }
+}

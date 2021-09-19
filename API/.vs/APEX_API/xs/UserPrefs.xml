@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{7B18B42B-17F2-4E19-BA0A-E782E1F79F1A}|APEX_API" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.Apex__Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Apex.DataAccess/Models/Files.cs">
+    <Files>
+      <File FileName="Apex.DataAccess/UserService.cs" Line="14" Column="28" />
+      <File FileName="APEX_API/Controllers/AuthController.cs" />
+      <File FileName="APEX_API/Startup.cs" />
+      <File FileName="APEX_API/Controllers/FilesController.cs" />
+      <File FileName="APEX_API/appsettings.json" />
+      <File FileName="APEX_API/appsettings.Development.json" />
+      <File FileName="APEX_API/Properties/launchSettings.json" />
+      <File FileName="Apex.DataAccess/Models/Files.cs" Line="10" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Apex_Api" expanded="True">
+            <Node name="Apex_Api" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
